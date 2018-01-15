@@ -1,0 +1,11 @@
+{
+  "title": "The Basics - Networking",
+  "description": "Your app fetched this from a remote endpoint!",
+  "movies": [
+    { "title": "Star Wars", "releaseYear": "1977","data":[{"name": "A", "uv": 1000, "pv": 5240, "amt": 2430},{"name": "B", "uv": 1000, "pv": 1398, "amt": 1010},{"name": "C", "uv": 2000, "pv": 9800, "amt": 2290},{"name": "D", "uv": 2780, "pv": 3908, "amt": 2400},{"name": "E", "uv": 1890, "pv": 3800, "amt": 2181},{"name": "F", "uv": 2390, "pv": 3800, "amt": 2500},{"name": "G", "uv": 3490, "pv": 4300, "amt": 2100}]},
+    { "title": "Back to the Future", "releaseYear": "1985", "data":[{"name": "A", "uv": 2400, "pv": 7400, "amt": 2400},{"name": "B", "uv": 2300, "pv": 1098, "amt": 2210},{"name": "C", "uv": 2000, "pv": 4800, "amt": 2290},{"name": "D", "uv": 2780, "pv": 3968, "amt": 2000},{"name": "E", "uv": 1890, "pv": 4800, "amt": 2181},{"name": "F", "uv": 2390, "pv": 3800, "amt": 2500},{"name": "G", "uv": 3490, "pv": 4300, "amt": 2100}]},
+    { "title": "The Matrix", "releaseYear": "1999", "data":[{"name": "A", "uv": 4000, "pv": 1400, "amt": 400},{"name": "B", "uv": 3040, "pv": 1308, "amt": 2210},{"name": "C", "uv": 2000, "pv": 2800, "amt": 2290},{"name": "D", "uv": 2780, "pv": 3908, "amt": 2500},{"name": "E", "uv": 1890, "pv": 3800, "amt": 2181},{"name": "F", "uv": 2390, "pv": 3800, "amt": 2500},{"name": "G", "uv": 3490, "pv": 4300, "amt": 2100}]},
+    { "title": "Inception", "releaseYear": "2010", "data":[{"name": "A", "uv": 10, "pv": 1400, "amt": 1400},{"name": "B", "uv": 3600, "pv": 1098, "amt": 2210},{"name": "C", "uv": 2000, "pv": 2800, "amt": 2290},{"name": "D", "uv": 2780, "pv": 3908, "amt": 1000},{"name": "E", "uv": 1890, "pv": 800, "amt": 2181},{"name": "F", "uv": 2390, "pv": 3800, "amt": 2500},{"name": "G", "uv": 3490, "pv": 4300, "amt": 2100}]},
+    { "title": "Interstellar", "releaseYear": "2014", "data":[{"name": "A", "uv": 500, "pv": 2900, "amt": 7400},{"name": "B", "uv": 3500, "pv": 1392, "amt": 2210},{"name": "C", "uv": 2000, "pv": 9800, "amt": 2290},{"name": "D", "uv": 2780, "pv": 3908, "amt": 500},{"name": "E", "uv": 1890, "pv": 4800, "amt": 2181},{"name": "F", "uv": 2390, "pv": 3800, "amt": 2500},{"name": "G", "uv": 3490, "pv": 4300, "amt": 2100}]}
+  ]
+}
